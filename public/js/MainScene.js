@@ -1,5 +1,7 @@
 import Snake from './Snake.js';
 
+
+// main scene
 export default class MainScene extends Phaser.Scene {
   constructor() {
     super('MainScene');
